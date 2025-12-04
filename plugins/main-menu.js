@@ -338,7 +338,7 @@ let handler = async (m, { conn }) => {
 │• 🤟 #ppcouple | #ppcp
 │
 ╰───────────────────────╯
-👑 © Powered By *OmarGranda*`
+👑 © Powered By Sara`
 
 /*    await conn.sendMessage(m.chat, {
       video: { url: 'https://qu.ax/AjjHr.mp4' },
@@ -367,7 +367,7 @@ let handler = async (m, { conn }) => {
 await conn.sendMessage(
   m.chat,
   {
-    video: { url: 'https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1763661063250_519643.mp4' },
+    video: { url: 'https://files.catbox.moe/hpustu.gif' },
     caption: menu,
     gifPlayback: true,
     gifAttribution: 0,

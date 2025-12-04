@@ -25,25 +25,25 @@ global.prems = ["51927181758"]
 
 global.libreria = "Baileys Multi Device"
 global.vs = "^1.8.2|Latest"
-global.nameqr = "MiyukiBot-MD"
+global.nameqr = "❤️̶۫̄͟Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸❤️̶۫̄͟─"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.shadow_xyzJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = "𝙈𝙞𝙮𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿 🌸"
-global.textbot = "𝙼𝚒𝚢𝚞𝚔𝚒𝙱𝚘𝚝-𝙼𝙳 | © 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 𝙾𝚖𝚊𝚛𝙶𝚛𝚊𝚗𝚍𝚊"
-global.dev = "© Powered By OmarGranda"
-global.author = "Omar Granda"
-global.etiqueta = "OmarGranda"
+global.botname = "❤️̶۫̄͟Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸❤️̶۫̄͟─"
+global.textbot = "𝚈𝚞𝚖𝚒𝙱𝚘𝚝-𝙼𝙳 | © 𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝙱𝚢 Sarah"
+global.dev = "© Powered By Sarah"
+global.author = "Sarah"
+global.etiqueta = "Sarah"
 global.currency = "¥enes"
-global.banner = 'https://qu.ax/wfNjl.jpg'
+global.banner = 'https://files.catbox.moe/2f9pzr.jpg'
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.channel = "https://whatsapp.com/channel/0029Vb6wMPa8kyyTpjBG9C2H"
+global.channel = "https://whatsapp.com/channel/0029VaCDajZ9WtBvBZy76k2h"
 global.github = "https://github.com/OmarGranda/MiyukiBot-MD" 
 global.gmail = "omargranda673@gmail.com"
 global.ch = {

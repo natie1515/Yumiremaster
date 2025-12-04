@@ -367,7 +367,7 @@ let handler = async (m, { conn }) => {
 await conn.sendMessage(
   m.chat,
   {
-    video: { url: 'https://files.catbox.moe/hpustu.gif' },
+    video: { url: 'https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1763661063250_519643.mp4'' },
     caption: menu,
     gifPlayback: true,
     gifAttribution: 0,

@@ -38,7 +38,8 @@ global.dev = "© Powered By Sarah"
 global.author = "Sarah"
 global.etiqueta = "Sarah"
 global.currency = "¥enes"
-global.banner = 'https://files.catbox.moe/2f9pzr.jpg'
+global.banner = "https://files.catbox.moe/2f9pzr.jpg"
+global.icono = "https://files.catbox.moe/2f9pzr.jpg"
 global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*

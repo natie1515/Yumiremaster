@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
     let mentionedJid = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.sender
     let totalCommands = Object.keys(global.plugins).length
     const iconos = [
-      'https://qu.ax/TPfmC.jpg'
+      'https://files.catbox.moe/2f9pzr.jpg'
     ]
     const randomIcono = iconos[Math.floor(Math.random() * iconos.length)]
 

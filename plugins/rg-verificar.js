@@ -126,7 +126,7 @@ Ejemplo: ${usedPrefix + command} ${displayName}.18
 ✅ Conexión establecida...
 💾 Datos cifrados correctamente.
 ⚡ Bienvenido al núcleo, ${displayName}.
-🧠 *Sistema operativo:* MiyukiBot-MD v2.5
+🧠 *Sistema operativo:* Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸-MD v2.5
 ─────────────────────────`
 
   await m.react?.('📩')

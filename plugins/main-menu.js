@@ -30,7 +30,7 @@ let handler = async (m, { conn }) => {
     let hora = moment.tz('America/Lima').format('HH:mm:ss')
     let dia = moment.tz('America/Lima').format('dddd')
     let menu = `
-╭───── ✨『 𝙔𝙪𝙢𝙞𝘽𝙤𝙩-𝙈𝘿 』✨🎄 ─────╮
+╭───── 🎄✨『 𝙔𝙪𝙢𝙞𝘽𝙤𝙩-𝙈𝘿 』✨🎄 ─────╮
 │ 🧑‍🎄 Usuario: *@${mentionedJid.split('@')[0]}*
 │ 🎁 Comandos: *${totalCommands}*
 │ 🌟 Versión: *${vs}*
@@ -338,7 +338,7 @@ let handler = async (m, { conn }) => {
 │• 🤟 #ppcouple | #ppcp
 │
 ╰───────────────────────╯
-👑 © Powered By Sara`
+👑 © Powered By *OmarGranda*`
 
 /*    await conn.sendMessage(m.chat, {
       video: { url: 'https://qu.ax/AjjHr.mp4' },
@@ -367,7 +367,7 @@ let handler = async (m, { conn }) => {
 await conn.sendMessage(
   m.chat,
   {
-    video: { url: 'https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1763661063250_519643.mp4'' },
+    video: { url: 'https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1763661063250_519643.mp4' },
     caption: menu,
     gifPlayback: true,
     gifAttribution: 0,

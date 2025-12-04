@@ -6,7 +6,7 @@ export async function before(m, { conn }) {
   const usedPrefix = global.prefix.exec(m.text)[0];
   const command = m.text.slice(usedPrefix.length).trim().split(' ')[0].toLowerCase();
 
-  const thumbRes = await fetch("https://raw.githubusercontent.com/AkiraDevX/uploads/main/uploads/1763387370316_434732.jpeg");
+  const thumbRes = await fetch("https://files.catbox.moe/2f9pzr.jpg");
   const thumbBuffer = await thumbRes.buffer();
 
   const fkontak = {
@@ -40,7 +40,7 @@ export async function before(m, { conn }) {
     let user = global.db.data.users[m.sender];
 
     if (chat?.isBanned) {
-      const avisoDesactivado = `╭─── MiyukiBot-MD ───╮
+      const avisoDesactivado = `╭─── 𝙔𝙪𝙢𝙞𝘽𝙤𝙩-𝙈𝘿  ───╮
 │ ⚙️ El bot está *desactivado* en este grupo.
 │ 🕓 Espera a que un *admin* lo active.
 │ 💡 Usa: *${usedPrefix}bot on*
@@ -51,8 +51,8 @@ export async function before(m, { conn }) {
         mentions: [m.sender],
         contextInfo: {
           externalAdReply: {
-            title: 'MiyukiBot-MD',
-            body: '© Powered by OmarGranda',
+            title: 'Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸',
+            body: '© Powered By Sara',
             thumbnailUrl: icono,
             sourceUrl: 'https://github.com/OmarGranda',
             mediaType: 1,

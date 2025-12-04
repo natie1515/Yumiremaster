@@ -143,7 +143,7 @@ Ejemplo: ${usedPrefix + command} ${displayName}.18
         newsletterName: channelRD.name
       },
       externalAdReply: {
-        title: '𝙈𝙞𝙮𝙪𝙠𝙞𝘽𝙤𝙩-𝙈𝘿',
+        title: 'Y͟u͟m͟ï̵̬͟͜𝐁o̸t̸',
         body: 'Verificando registro...',
         mediaType: 1,
         thumbnailUrl: 'https://qu.ax/NtBCa.jpg',
